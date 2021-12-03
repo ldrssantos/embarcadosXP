@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "wifi_app_main.h": "c",
+    "esp_log.h": "c",
+    "esp_event.h": "c",
+    "esp_wifi.h": "c",
+    "*.inc": "c",
+    "mqtt_client.h": "c"
+  }
+}
